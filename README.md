@@ -6,3 +6,5 @@ Learning Angular - following through with the Angular Heroes tutorial.
 - Added a two-way binding input for character.name - displays changes in realtime.
   - Possible through the imported (FormsModule) ngModel directive.
 ## Master & Detail (In Progress)
+- Created a mock array of characters.
+- Iterated through the array of characters for display (using *ngFor in <li>)
