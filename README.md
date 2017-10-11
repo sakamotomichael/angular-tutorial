@@ -7,4 +7,5 @@ Learning Angular - following through with the Angular Heroes tutorial.
   - Possible through the imported (FormsModule) ngModel directive.
 ## Master & Detail (In Progress)
 - Created a mock array of characters.
-- Iterated through the array of characters for display (using *ngFor in list)
+- Iterated through the array of characters for display (using ngFor in list)
+- Implemented the generic styling from the tutorial
